@@ -1,4 +1,4 @@
 # CSC4120-F2021
-Repository for files pertaining to Modules 4 and 5 of Georgia State University's Intro to Robotics course.
+Repository for files pertaining to Project 1 of Georgia State University's Fall 4120 Intro to Robotics course.
 
 Stanley Hu
